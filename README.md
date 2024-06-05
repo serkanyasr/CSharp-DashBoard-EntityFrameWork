@@ -2,6 +2,18 @@
 
 This project is a dashboard application developed using C# with Material Skin Framework, Entity Framework, and LiveCharts. It allows users to interact with the database and visually track data. The dataset used in this project is the [Turkish Market Sales Dataset](https://www.kaggle.com/datasets/omercolakoglu/turkish-market-sales-dataset-with-9000items) from Kaggle.
 
+
+
+
+
+https://github.com/serkanyasr/CSharp-DashBoard-EntityFrameWork/assets/80819652/3e05c9c6-7737-4670-b026-eaab4af50075
+
+
+
+
+
+
+
 ## Getting Started
 
 This guide explains how to set up and run the project on your local machine.
